@@ -1,4 +1,4 @@
-Model Outputs
+Model Outputs:
 
 1. Random Forest Regressor:
     R² Score: 0.12078357081638225
