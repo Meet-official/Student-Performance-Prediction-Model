@@ -39,8 +39,7 @@ python Student-Performance.py
 ## 🧪 Sample Prediction
 
 ```
-R² Score: 0.10880700649760289
-MSE: 0.6190123833507855
+🎯 Predicted CGPA: 3.0281999999999987
 ```
 
 ## 🤖 Libraries Used
