@@ -1,4 +1,3 @@
-
 # 🎓 Student Performance Prediction Model
 
 > 🚀 A machine learning project that predicts a student’s final grade (G3) using past performance, study habits, and engineered features — built with care, research, and precision.
