@@ -1,0 +1,17 @@
+Model Outputs
+
+1. Linear Regression: 
+    R² Score: 0.8626851841042196
+    RMSE: 1.4516456892112297
+
+2. Decision Tree:
+    R² Score: 0.6608773746999459
+    RMSE: 2.281289030020125
+
+3. SVM:
+    R² Score: 0.7626657682603867
+    RMSE: 1.908455864284149
+
+4. Random Forest Regressor:
+    R² Score: 0.8447585581891391
+    RMSE: 1.5434969053971817
