@@ -140,14 +140,14 @@ This project is licensed under the [MIT License](https://choosealicense.com/lice
 
 ---
 
-## ✍️ Author
-
-**Made with ❤ by Meet Patel**
-
----
-
 ## ⭐️ Show Some Love
 
 If you found this useful, consider giving it a ⭐️ on GitHub — it motivates and supports further development!
+
+---
+
+## ✍️ Author
+
+**Made with ❤ by Meet Patel**
 
 ---
